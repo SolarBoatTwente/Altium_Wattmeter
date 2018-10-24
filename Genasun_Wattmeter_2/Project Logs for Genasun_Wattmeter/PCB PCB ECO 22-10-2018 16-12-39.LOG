@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=Relay Pin=Q1-1
-Removed Pin From Net: NetName=NetK1_6 Pin=Q1-3
-Removed Pin From Net: NetName=Relay Pin=Q?-1
-Removed Pin From Net: NetName=NetK1_6 Pin=Q?-3
-Added Pin To Net: NetName=NetK1_6 Pin=Q1-1
-Added Pin To Net: NetName=Relay Pin=Q1-3
-Added Pin To Net: NetName=NetK1_6 Pin=Q?-1
-Added Pin To Net: NetName=Relay Pin=Q?-3
