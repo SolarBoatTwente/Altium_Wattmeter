@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WLCHHKGN
 
 [Document3]
-DocumentPath=E:\Google Drive\Projecten\Altium\Library\GJ24.PcbLib
+DocumentPath=..\Altium_Library\GJ24.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=E:\Google Drive\Projecten\Altium\Library\GJ24.SchLib
+DocumentPath=..\Altium_Library\GJ24.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
