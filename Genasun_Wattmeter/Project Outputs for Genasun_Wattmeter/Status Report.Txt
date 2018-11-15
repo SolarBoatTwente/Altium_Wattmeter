@@ -1,9 +1,13 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Genasun_Wattmeter.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Genasun_Wattmeter.PrjPcb]
+   Generated File[PCB-RoundHoles.TXT]
+   Generated File[PCB-SlotHoles.TXT]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 2:06:57 PM On 11/14/2018
+Finished Output Generation At 09:36:22 On 15-11-2018
