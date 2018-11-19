@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CAN_GND Pin=D2-2
+Removed Member From Class: ClassName=Schematic_CAN2USB Member=D2
+Change Component Footprint: Designator=D1 Old Footprint=LED 5050 2PAD New Footprint=LED 0805/2012 RED
+Added Component: Designator=D?(LED 0805/2012 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_GND Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R4-1
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component D? Green

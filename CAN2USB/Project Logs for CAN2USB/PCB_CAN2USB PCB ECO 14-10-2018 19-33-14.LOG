@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=CAN_GND Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=+3V3 Pin=U2-5
+Added Pin To Net: NetName=CAN_GND Pin=U2-8
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component P? BME280

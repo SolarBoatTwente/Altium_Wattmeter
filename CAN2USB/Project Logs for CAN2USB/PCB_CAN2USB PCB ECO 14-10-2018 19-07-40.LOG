@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SDA1 Pin=Q2-1
+Removed Pin From Net: NetName=+3V3 Pin=Q2-2
+Added Pin To Net: NetName=+3V3 Pin=Q2-1
+Added Pin To Net: NetName=SDA1 Pin=Q2-2
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component P? BME280

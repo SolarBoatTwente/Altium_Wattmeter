@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP 0805/2012 New Footprint=CAP 0603/1608
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component R6 Res2

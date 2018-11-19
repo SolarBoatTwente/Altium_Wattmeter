@@ -1,0 +1,5 @@
+#remove Altium trash folders
+__Previews/
+History/
+Project Logs for CAN2USB/
+*.htm

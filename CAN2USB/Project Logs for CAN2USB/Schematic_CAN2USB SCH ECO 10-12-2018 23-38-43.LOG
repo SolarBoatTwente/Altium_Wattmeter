@@ -1,0 +1,10 @@
+Remove Pin=P1-1 From Net=CAN_GND
+Remove Pin=P1-4 From Net=CAN_H
+Remove Pin=P1-5 From Net=CAN_L
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=TE 282834-4
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X5 New Footprint=TE 282834-5
+Change Component Comment: Designator=P2 Old Comment=Header 5 New Comment=CAN2
+Change Component Comment: Designator=P1 Old Comment=Header 5 New Comment=Header 4
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Pin Designator/Name:  Old Designator=P1-2 Old Name=2 New Designator =4 New Name=4

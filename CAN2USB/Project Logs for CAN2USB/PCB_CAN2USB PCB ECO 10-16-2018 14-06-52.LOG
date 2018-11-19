@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED1 Pin=U1-37
+Added Pin To Net: NetName=LED1 Pin=U1-31
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component R2 Res2
+Added Member To Class: ClassName=Schematic_CAN2USB Member=Component R4 Res2
